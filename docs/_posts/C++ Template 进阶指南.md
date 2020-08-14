@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "C++ Template 进阶指南"
+date:   2020-08-14 10:07:21 +0800
+categories: C++
+---
 
 # C++ Template 进阶指南
 
